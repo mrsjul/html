@@ -1,0 +1,32 @@
+body {
+  font-family: Tahoma;
+  color:#cc581f;
+  background: #eee;
+  overflow-x: hidden;
+}
+.images {
+	 width:200px; 
+	 border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  
+}
+a{
+	font-family:Trebuchet;
+	color:#cc581f;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+
+.shifted_right {
+	position: relative;
+	left: 330px;
+}
